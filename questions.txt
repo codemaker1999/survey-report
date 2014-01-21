@@ -1,0 +1,110 @@
+1. I clearly understand who I report to.
+2. Hard work and dedication are the best way to advance in this organization.
+3. I have the equipment and resources to effectively do my job.
+4. I believe employees doing the same job in this organization are compensated equally.
+5. My department or team respects the views and opinions of one another.
+6. I believe that County Council cares about the employees of this organization.
+7. Internal conflict resolution is handled appropriately in this organization.
+8. The training I receive allows me to assume additional work responsibilities.
+9. I am expected to operate in a safe manner to avoid work related accidents.
+10. This workplace effectively handles “people problems” that exist between staff.
+11. I am proud to be a part of this organization.
+12. The organization’s policies are applied fairly and consistently in my department.
+13. This organization does not tolerate or permit unethical behavior.
+14. My department or team normally completes our work assignments on schedule while still focusing on quality.
+15. I trust the decisions and actions of the Senior Management Team.
+16. Employee performance related issues are handled appropriately in this organization.
+17. I believe I am recognized for my efforts.
+18. I believe I am paid fairly for the work I do.
+19. I receive the support I need from other departments to successfully meet my job responsibilities.
+20. I am able to maintain a healthy balance between my work life and personal life.
+21. I feel that my job is secure with this organization.
+22. The interviewing, hiring and orientation of new employees is a well managed process.
+23. My job allows me to utilize my talents.
+24. The structure of our organization allows for effective communication and information exchange.
+25. I am expected to treat both customers and co-workers honestly and ethically.
+26. I feel that this organization respects diversity.
+27. Teamwork is practiced in this organization.
+28. I trust the decisions and actions of my department or team members.
+29. I believe County Council is doing a good job in managing our organization.
+30. This organization provides me with new experiences and a chance to grow.
+31. I am never asked to perform an unsafe job or ignore safety concerns.
+32. I would describe my workplace as being psychologically healthy.
+33. I have sufficient time to focus on the quality of my work.
+34. I believe the Senior Management Team communicates a clear vision of our future direction.
+35. I understand the purpose of my organization as a whole.
+36. I believe my job is important in this organization.
+37. My manager regularly provides me with feedback.
+38. I believe people are held accountable for their decisions and actions within this organization.
+39. The departments within our organization share a common vision and direction.
+40. We celebrate our successes in this organization.
+41. I am comfortable approaching someone in this organization for assistance with workplace conflict.
+42. Recognition is accurately distributed to the employees who deserve the credit.
+43. My department or team holds efficient and productive meetings.
+44. I am aware of whom to approach for assistance with workplace conflict.
+45. My manager effectively communicates my job responsibilities.
+46. I believe the Senior Management Team is doing a good job in managing our organization.
+47. I am satisfied with the quality of equipment and tools provided by this organization.
+48. I have the ability to voice safety and work environment concerns.
+49. I believe my department or team works well together.
+50. The department provides me with enough flexibility and support to meet the demands of my personal and family life.
+51. I have gained valuable experience while working for this organization.
+52. This organization is committed to the development of its staff members.
+53. This organization offers competitive compensation and benefits.
+54. I believe the employees in this organization communicate effectively.
+55. The employees of this organization treat each other with respect.
+56. I am satisfied with the quality of the job training I receive.
+57. I believe County Council communicates a clear vision of the future direction of our organization.
+58. I am given the responsibility and authority to do my job.
+59. I feel supported in my workplace when I am dealing with personal or family issues.
+60. I have sufficient access to my Manager.
+61. Difficult situations at work are addressed effectively.
+62. I feel that recognition is fair and consistent within our organization.
+63. The culture of the overall organization is positive and optimistic.
+64. I am comfortable expressing my opinions on issues that are important to me.
+65. The employees in this organization strive for quality.
+66. I am able to complete my work responsibilities during normal business hours.
+67. I have a good working relationship with my Manager.
+68. My development is encouraged by someone in this organization.
+69. The training I receive is relevant to my work responsibilities.
+70. My opinions matter in this organization.
+71. I believe this organization respects and values my personal/family life.
+72. This organizational structure allows us to operate in an efficient and productive manner.
+73. I am satisfied with the benefits provided to me.
+74. I believe the Senior Management Team cares about the employees in this organization.
+75. I understand what type of behavior is expected in this organization.
+76. This organization operates in a professional and ethical manner.
+77. This organization does a good job of recognizing and rewarding outstanding performance.
+78. I would recommend working here to a friend.
+79. I'm valued and appreciated for the job I do.
+80. I have career advancement opportunities within this organization.
+81. Most employees that I regularly work with are happy with this organization.
+82. I work in a safe environment.
+83. I am supported by this organization to fulfill the responsibilities of my job.
+84. I receive job training on a regular basis.
+85. Work related obligations seldom require me to cancel or change my personal or family commitments.
+86. I clearly understand my compensation and benefits package.
+87. I trust the decisions and actions of County Council.
+88. This organization provides me with a clear professional development plan.
+89. Leadership within this organization communicates openly about important matters.
+90. My job contributes to the purpose of this organization.
+91. I have energy left at the end of most workdays for my personal life.
+92. I believe the other departments or service groups operate effectively.
+93. Most employees in this organization are productive and motivated.
+94. My manager actively solicits my suggestions and ideas.
+95. I have developed strong friendships in this organization.
+96. The Senior Management Team does a good job of establishing and communicating clear priorities and objectives.
+97. My manager is effective in setting clear job priorities and objectives.
+98. I receive recognition when I do a good job.
+99. I would feel comfortable reporting a co-worker who is not behaving in a professional or ethical manner.
+100. I clearly understand what is expected of me in this organization.
+101. I believe this organization is both customer focused and committed to quality.
+102. This organization provides me with enough flexibility and support to meet the demands of my personal and family life.
+103. I am willing to go beyond my normal work duties to help this organization succeed.
+104. My coworkers behave in a professional manner.
+105. There is a person in a leadership role in this organization that cares about me as an individual.
+106. Employees I interact with cooperate and collaborate well with one another.
+107. I have the opportunity to request training when needed.
+108. County Council does a good job of establishing clear priorities and objectives.
+109. I am supported by my department to fulfill the responsibilities of my job.
+110. I believe this organization is committed to me as an employee.
